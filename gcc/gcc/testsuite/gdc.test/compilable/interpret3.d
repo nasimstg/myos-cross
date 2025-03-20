@@ -1,4 +1,4 @@
-﻿// PERMUTE_ARGS: -inline
+// PERMUTE_ARGS: -inline
 
 template compiles(int T)
 {

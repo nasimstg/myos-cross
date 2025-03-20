@@ -1,4 +1,4 @@
-﻿// 10599 ICE(interpret.c) 
+// 10599 ICE(interpret.c) 
 
 struct Bug {
     int val = 3.45;
